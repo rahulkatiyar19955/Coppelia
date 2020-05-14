@@ -3,7 +3,7 @@
 To install CoppeliaSim, please follow the instructions below:
 
 1.  Download a version of EDUCATIONAL CoppeliaSim from [here](http://www.coppeliarobotics.com/downloads.html), according to your system specification.
-2.  Unpack the compressed file to somewhere in your system and rename it to coppeliaSimulator
+2.  Unpack the compressed file to your home directory [**cd ~**] in your system and rename it to coppeliaSimulator
 3.  Go to the coppeliaSimulator folder and run the command:
 
 ```BASH
