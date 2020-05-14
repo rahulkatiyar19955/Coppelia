@@ -24,6 +24,8 @@ coppeliaSimulator/tutorials/BubbleRob/bubbleRob.ttt
  - now manually start b0-RemoteAPI Server by goint to the menu bar [**Add-ons --> b0RemoteApiServer**]
 
 Now we ready with the server side to use B0 remote API.
+![How to open CoppeliaSim](https://i.imgur.com/qVeQ5ez.gifv)
+
 ## Enabling B0-remoteAPI on Client Side 
 
 ### For Python:
